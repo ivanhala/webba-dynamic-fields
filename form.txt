@@ -1,6 +1,0 @@
-<p><label for="wbk-name">Nom 1</label>[text* wbk-name class:wbk-text id:wbk-name]</p>
-<p><label for="prenom_1">Prénom 1</label>[text* prenom_1 class:wbk-text id:prenom_1]</p>
-<p><label for="member_1">Membre 1</label>[select member_1 id:member_1 class:wbk-select "oui" "non"]</p>
-<p><label for="wbk-email">Your Email (required)</label>[text* wbk-email class:wbk-text id:wbk-email]</p>
-<p><label for="wbk-phone">Your phone (required)</label>[text* wbk-phone class:wbk-text id:wbk-phone]</p>
-<div id="wbk_dynamic_fields"></div>
